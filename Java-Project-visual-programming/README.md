@@ -1,6 +1,6 @@
 # CovidStats
 
-JavaFx program that graphically displays Covid-19 confirmed cases, deaths and recoveries for the United States of America, Spain, Italy, China and Japan. The application will give the user the ability to change the country of Japan to any other available country and display how that country compares to the others. Developed by myself and Obeds12345.
+JavaFx program that graphically displays Covid-19 confirmed cases, deaths and recoveries for the United States of America, Spain, Italy, China and Japan. The application will give the user the ability to change the country of Japan to any other available country and display how that country compares to the others. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 Installation:
